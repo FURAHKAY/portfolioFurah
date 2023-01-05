@@ -1,1 +1,16 @@
 This is my portfolio
+
+git init (cre)
+git add .
+git commit -m
+
+To connect local to remote repository:
+git remote add origin + (URL)
+(origin or any other label of choice)
+
+TO define default branch:
+git push origin master
+
+branch master set up to track remote branch master from origin:
+git push --set-upstream origin master
+
